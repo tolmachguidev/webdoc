@@ -8,5 +8,3 @@ pages:
 - Advanced Modes: 'advanced.md'
 - Settings: 'pref.md'
 #- Calibration: 'calibr.md'
-
-theme: readthedocs
