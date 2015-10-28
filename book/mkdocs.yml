@@ -1,0 +1,12 @@
+site_name: My Docs
+pages:
+- Quick Start: 'index.md'
+- Getting Started: 'installation.md'
+- Scanning: 'scanning.md'
+- Basics: 'base_stuff.md'
+- Processing: 'proc.md'
+- Advanced Modes: 'advanced.md'
+- Settings: 'pref.md'
+#- Calibration: 'calibr.md'
+
+theme: readthedocs
